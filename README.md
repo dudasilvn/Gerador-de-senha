@@ -10,8 +10,10 @@
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 
+> # Descrição do Projeto
 O gerador de senha é um projeto em desenvolvimento que tem como função gerar senhas aleatórias entre 5 e 25 caracteres com o intuito de ajudar o usuário a usar senhas mais seguras em suas redes sociais, sites, apps e etc. 
 
+> # Status do Projeto
 > :construction: Projeto em construção :construction:
 
 > # :hammer: Funcionalidades do projeto
@@ -25,7 +27,7 @@ O gerador de senha é um projeto em desenvolvimento que tem como função gerar 
 
   O Gerador de senhas deve ser executados em telas desktop, o projeto esta em processo de construção e em breve será adaptado para telas   menores, aguarde ate finalizar.
 
-  ✔️ Técnicas e tecnologias utilizadas
+> # ✔️ Técnicas e tecnologias utilizadas
   ° Java Script
   ° CSS
   ° HTML
