@@ -23,9 +23,9 @@ O gerador de senha é um projeto em desenvolvimento que tem como função gerar 
 
   # 📁 Acesso ao projeto
   Para conseguir ter acesso ao projeto clique em:
-  (link)
+  https://geradorrdesenhass.netlify.app
 
-  O Gerador de senhas deve ser executados em telas desktop, o projeto esta em processo de construção e em breve será adaptado para telas   menores, aguarde ate finalizar.
+  O Gerador de senhas deve ser executados em telas desktop, o projeto esta em processo de construção e em breve será adaptado para telas menores, aguarde ate finalizar.
 
 > # ✔️ Técnicas e tecnologias utilizadas
   ° Java Script
